@@ -121,8 +121,8 @@ They are faster than Two Stage approaches/ Detectors, but they have lower accura
 
 ---
 
-###Summary 
-![None](https://ibb.co/852td37)
+### Summary 
+![Summary](https://i.ibb.co/BZjFrDC/2022-01-29-20-28.png)
 - The base networks will change the speed, accuracy etc
 - Object detection architecture will affect the speed of object identification
 
