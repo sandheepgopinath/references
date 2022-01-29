@@ -46,20 +46,85 @@
 1. Single Stage apporaches uses a single stage of detection and focusses on speed. Some examples are YOLO, RetinaNet, SSD etc. Does not have region proopsal. Instead they use Anchor boxes
 2. Two stage approaches uses two stages of detection .Here the priority os for  accuracy. In first stage, we come up with a set of Region of Interests and then these are iterated. Examples are RCNN, Faster RCNN , Mask RCNN, Cascade RSCNN etc. They use region proposals
 
-#### Region proposals
-- Images which are likely to contain objects
+#### Region proposals ( Selective Search )
+- Images which are likely to contain objects/Blobs are detected in this process so that we do not have to scan the entire image as in Bruite Force/ Sliding Window
+- Cannot be run on a GPU
 - Eg : Selective search classifies the images into small segments and then combine them
 ![](https://media.geeksforgeeks.org/wp-content/uploads/home/Step2-660x168.PNG)
 - Later networks were used to do this.
 
 
-### Region Convolutional Neural Networks
+## Region Convolutional Neural Networks
 ![RCNN](https://miro.medium.com/max/1400/1*REPHY47zAyzgbNKC6zlvBQ.png)
 - Image fed to network
 - Comes up with region proposals
 - Convert all regions to a fixed size
 - Pass it through a CNN which does classification
-- It does redundant computations
-- 
+- It does redundant computations hence slow
+-
+## Fast R-CNN
+![FCNN](https://miro.medium.com/max/1095/1*jYDMaYeH-TrcoofDqCdxug.jpeg)
+
+- Images are fed into a CNN which creates region proposals of different sizes. 
+- The feature maps are then fed into a ROI pooling layer which converts all these regions into a fixed size
+- This is later fed into a DNN and then to a classification layer for Object classification and to a regression layer for predicting the bounding boxes
+- The back propogation can happen only till the region proposal area, as before that it is selective search which happens. 
+- This problem is cleared in the Faster RCNN networks. 
+- Here, Unlike the RCNN network each region does need not be passed through a convolutional layer. Rather only selected images has to be passed through the same. 
+
+#### ROI Pooling
+![ROIPooling](https://miro.medium.com/max/1316/1*zlfIBgjS0P435lhJLoW8SA.png)
+
+- To convert region proposals of different sizes into same size
+- It divides the matrices in an effective way to get the output of the required sizes
+
+## Faster RCNN
+![Faster RCNN](https://media.geeksforgeeks.org/wp-content/uploads/20200219125702/faster-RCNN.png)
+- Make CNN do proposals
+- Selective search was taking up most of the time
+- A region proposal network would do the work instead of a selective search
+- ROI pooling will make it the same sizes
+- DNN would do further predictions
+- Classification & Regression / Any of them based on the use case
+
+- With a Region proposal network for the region proposals, this gives the ability to back propogate as it uses neural network for Region proposal as well
+---
+# One stage approaches
+
+They are faster than Two Stage approaches/ Detectors, but they have lower accuracy
+
+## YOLO ( You Only Look Once ) 
+![YOLO](https://leimao.github.io/images/blog/2019-04-15-YOLOs/yolo_v1_diagram.png)
+
+- Looks at the image once
+- For every grid box, predict n  boxes
+- Each box would have (x,y,h,w, confidence ) output
+- So each box for an image of size sxs there would be sxs(5xn) outputs
+- Each of the s\*s boxes produces n bounding boxes. Each of these bounding boxes has lets say 5 classes. So 5 probability values will be generated for each box. If the value of proabability is more than a threshold, then that box is considered. After this process, a number of bounding boxes are dropped which does not meet the threshold requirements. 
+- Combine the boxes
+
+#### Non Maximal Supression
+![NMS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIer0Gn04CYowFSuSE1A2kYIKslL6P0JJWrnt1XFKSgmN5j5-zvhyNqomKJfTILbV72wM&usqp=CAU)
+
+- Supression of overlapping boxes to come up with a single boxes
+- Get box with Maximum score from the list of bounding boxes
+- Compute IOU of every other box with the box with maximum score
+- Remove bounding boxes with high IOU
+
+#### Single Shot Detector ( By Google )
+![SSD](https://cdn-images-1.medium.com/fit/t/1600/480/1*hdSE1UCV7gA7jzfQ03EnWw.png)
+- Pre defined bounding boxes, called Anchor boxes
+- Network chooses between these Anchor boxes
+- This becomes a classification problem
+- SSD takes features from multiple layers whereas YOLO does this from a single layer. 
+
+
+---
+
+###Summary 
+![None](https://ibb.co/852td37)
+- The base networks will change the speed, accuracy etc
+- Object detection architecture will affect the speed of object identification
+
 
 
