@@ -20,4 +20,6 @@ Conv2D is used for images. This use case is very popular. The convolution method
 Conv3D is usually used for videos where you have a frame for each time span. These layers usually have more parameters to be learnt than the previous layers. The reason we call them 3D is that other than images for each frame, there is another axis called time containing discrete values, and each of them corresponds to a particular frame
 </body><br>
 
+
+
 Credits : Green Falcon. https://datascience.stackexchange.com/users/28175/green-falcon
