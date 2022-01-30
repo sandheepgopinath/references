@@ -4,6 +4,8 @@
 <body>
 Conv1D is used for input signals which are similar to the voice. By employing them you can find patterns across the signal. For instance, you have a voice signal and you have a convolutional layer. Each convolution traverses the voice to find meaningful patterns by employing a cost function.
 </body><br>
+
+
 ---
 ### Conv2D
 <body>
