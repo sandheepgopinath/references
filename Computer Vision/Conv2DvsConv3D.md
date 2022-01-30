@@ -11,6 +11,9 @@ Conv1D is used for input signals which are similar to the voice. By employing th
 <body>
 Conv2D is used for images. This use case is very popular. The convolution method used for this layer is so called convolution over volume. This means you have a two-dimensional image which contains multiple channels, RGB as an example. In this case, each convolutional filter should be a three-dimensional filter to be convolved, cross-correlated actually, with the image to find appropriate patterns across the image.
 </body><br>
+
+
+
 ---
 ### Conv3D
 <body>
