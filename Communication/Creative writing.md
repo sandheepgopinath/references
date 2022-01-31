@@ -30,7 +30,7 @@ Privileage can be connected to having access to things which happened over a cou
 ---
 
 #### Summary
-Every person has their own experiences , takeaways , learning and their own interpretation of whatever has happened with their life or has observed happening around them . It is this combination of that makes everyone unique.  
+Every person has their own experiences , takeaways , learning and their own interpretation of whatever has happened with their life or has observed happening around them . It is this combination of that makes everyone unique.  	
 
 While writing it is not important to focus on writing something which was never written before, because there is nothing as such. Rather, it is important to write content which reflect who you are. This can be done by identifying the topic you want to write about, think and reflect about it to understand it from you perspective and then express it in your style. This can give rise to unique content
 
