@@ -50,9 +50,3 @@ Issues which people usually face while writing
         
 - If there are no right r wring answers, It is a prompt
 - Sticking with a thought without jumping from thought to thought can evantually lead to something
-- 
-
-
-# Delete this
-
-Google is not making us stupid. It gives us all the information we need in a single click without the need for taking much efforts.This will inturn make us lazy. 
