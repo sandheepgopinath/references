@@ -1,5 +1,3 @@
-#Pipeline Monitoring
-
 ![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~introduction-to-machine-learning-in-production/XDP~COURSE!~introduction-to-machine-learning-in-production.jpeg)
 
 <ul>
