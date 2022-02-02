@@ -13,4 +13,15 @@
 </ul>
 <br>
   
+
+
+#### Reading Material
+
+- <a href='https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb'>Concept and Data Drift M</a>
+
+- <a href='https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
+'>Monitoring Machine Learning Models in Production</a>
+
+- <a href='https://www.youtube.com/watch?v=06-AZXmwHjo'>A chat with Andrew NG on MLOPS</a>
+
 *Credits of all content in this folder belongs to : DeepLearning.ai*
