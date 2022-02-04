@@ -24,4 +24,6 @@
 
 - <a href='https://www.youtube.com/watch?v=06-AZXmwHjo'>A chat with Andrew NG on MLOPS</a>
 
+- <a href='https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main/course1/week1-ungraded-lab'> Deployment Lab </a>
+- 
 *Credits of all content in this folder belongs to : DeepLearning.ai*
