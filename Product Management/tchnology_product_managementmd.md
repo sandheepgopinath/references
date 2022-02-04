@@ -41,3 +41,20 @@ A new product willfirst have an incliing curve in terms of metrics, and then dec
 
 
 ![](internet.png)
+
+# Note
+![](note.png)
+
+<br>
+
+###### Notes for interviews
+
+- Modularity is very crucial
+- Standardization and Maintenability is critical as well
+- Technology space of the market / product is important () Market knowledge of the company is important )
+- Even a small feature will affect the company as a whole. So it is important to understand the market of the company
+- Share all details with an example
+Questions : I believe the product manager does this. How is it done in your company?
+
+What is your most important product? Walk through this
+

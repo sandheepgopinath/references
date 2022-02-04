@@ -16,7 +16,9 @@
 
 	- #### How do we do upsampling?
     	- Transposed convolution
+        ![](https://i.ytimg.com/vi/96_oGE8WyPg/hqdefault.jpg)
         - Fractionally strided convolution
+        ![](https://i.stack.imgur.com/2aSir.gif)
         - Max unpooling
         
         ![](https://www.researchgate.net/profile/Eli_David/publication/306081538/figure/fig2/AS:418518853013507@1476794078414/Pooling-and-unpooling-layers-For-each-pooling-layer-the-max-locations-are-stored-These.png)
@@ -25,6 +27,11 @@
         
 
   
+- Unet 
+![](https://www.researchgate.net/profile/Alan-Jackson-2/publication/323597886/figure/fig2/AS:601386504957959@1520393124691/Convolutional-neural-network-CNN-architecture-based-on-UNET-Ronneberger-et-al.png)
+
+- ## Dice Coefficient
+- 
 - Instace level Segmentation
 - Mask RCNN
 - 
