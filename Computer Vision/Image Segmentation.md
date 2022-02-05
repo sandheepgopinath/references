@@ -6,10 +6,8 @@
 	- Can do a convolution over a selected area which is then moved around in the image. This process needs large number of convolutions which is very expensive. 
 	- Dilated convolutions can help in reducing the number of operations
 	![](https://miro.medium.com/freeze/max/395/0*3cTXIemm0k3Sbask.gif)
-<br>
 
-
-	- However, the number of convolutions needed are still high. Hence we go for different approaches<br><br>
+- However, the number of convolutions needed are still high. Hence we go for different approaches<br><br>
     ##### Approach 1
 	-  Follow something like an encoder-decoder network. This can be done with or without convolution operations as a fully connected layer. But it can overfit the images. So we usually use convolutions over fully connected when it comes to images.
     
