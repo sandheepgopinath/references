@@ -88,6 +88,8 @@ Edges will have different weights
 
 - Spektral ( Build on top of tensorflow)
 - Jraph 
+- Oreily : 
+- Stanford CS224W with Juke Leskovec ( 50 lectures 20 minutes each )
 
 #### Try : 
 - Converting a Relational DB into Graph DB
