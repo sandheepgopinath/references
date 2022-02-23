@@ -47,12 +47,15 @@ Elements of Cognition
 - Consider sompetition for attention
 - Test to see what draws attention
 - Multi-tasking has an impact on attention
-- 
+- Quantify user interactions 
 
 ### High Level interaction models
 Given an interface, can we predict user performance on some task using a high level cognitiive model?
 This may tell us which interface might be better at task without having to build its details. 
+- GOMS : Goals operators , methhods and selectors
+- Keystore level model ( Keypress, Point, etc)
 
+*Check details of the methods*
 
 #### It is important to understand where a users attention move to, on seeing something immediately and interfaces has to be designed keeping this in mind. 
 
