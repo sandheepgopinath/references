@@ -1,4 +1,4 @@
-# Pitching and 
+# Pitching and Interviews
 
 - Constantly adjust your story to your audience
 - Have different sized stories for different audiences at different times
@@ -30,3 +30,10 @@ Working culture?
 
 Reading :
 The fuzzy and the techie : Scott Hartley 
+
+
+### Learnings : 
+
+3 learnings
+2 likes 
+1 will do
