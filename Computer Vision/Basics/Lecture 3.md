@@ -50,3 +50,9 @@
 - Decompose a filter help[s in reducing the number of calculations. In above case from 9 to 6
 - This helps to avoid redundant computations
 
+
+Reference : 
+https://www.youtube.com/watch?v=oACegp4iGi0
+https://www.youtube.com/watch?v=r18Gi8lSkfM&t=140s : Best
+https://github.com/siddthesquid/ImageTransformer
+
