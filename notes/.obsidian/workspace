@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "1744b9a19ab4eb75",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f40834f34d0cbd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1903e0eb849ffed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a0e1245fd70b96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4db9e88e4d88f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38cea348c7cbbc5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ef89992fa5f3e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "41debd934e3d31f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee2de7854d9ef98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84f40834f34d0cbd",
+  "lastOpenFiles": [
+    "Decision making/Qure.md",
+    "Decision making/ai.png",
+    "Communication/Creative writing.md"
+  ]
+}
