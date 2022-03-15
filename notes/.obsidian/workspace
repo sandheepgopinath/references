@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "84f40834f34d0cbd",
+        "id": "a41f99f4a8b4a119",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Deep Learning and NLP/NLP/6. NLP.md",
+            "mode": "source"
+          }
+        },
+        "group": "24bb33a236c26450"
+      },
+      {
+        "id": "a61512953df5636a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deep Learning and NLP/NLP/6. NLP.md",
+            "mode": "preview"
+          }
+        },
+        "group": "24bb33a236c26450"
       }
     ],
     "direction": "vertical"
@@ -49,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ef89992fa5f3e86",
@@ -65,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deep Learning and NLP/NLP/6. NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,10 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84f40834f34d0cbd",
+  "active": "a41f99f4a8b4a119",
   "lastOpenFiles": [
-    "Decision making/Qure.md",
-    "Decision making/ai.png",
-    "Communication/Creative writing.md"
+    "Deep Learning and NLP/NLP/6. NLP.md",
+    "Deep Learning and NLP/NLP/zero_shot.png",
+    "Deep Learning and NLP/NLP/dke.png",
+    "Deep Learning and NLP/NLP/croww_word_embeddings.png",
+    "Deep Learning and NLP/6. NLP.md",
+    "Deep Learning and NLP/Deep Learning and NLP.md",
+    "Untitled.md",
+    "Tes.md",
+    "HCI.md",
+    "Computer Vision/Computer Vision W4.md"
   ]
 }
