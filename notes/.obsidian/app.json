@@ -2,5 +2,15 @@
   "legacyEditor": true,
   "livePreview": true,
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "orthonormal",
+    "Haar",
+    "haar",
+    "Adaboost",
+    "misclassified",
+    "misclassifiers",
+    "intra",
+    "Neocognitron"
+  ]
 }
