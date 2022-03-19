@@ -1,0 +1,4 @@
+- Choice of pivot language
+	- Better sub-word overlap between pivot and target seems to help transfer
+	- Better typological similarity/syntactic similarity also seems to help
+	- 
