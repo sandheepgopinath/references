@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
+            "file": "Human Computer Interactions/7. User Testing.md",
             "mode": "source"
           }
-        },
-        "group": "fe3cbbdea18c7b4e"
-      },
-      {
-        "id": "f05df1ae471dcbcc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
-            "mode": "preview"
-          }
-        },
-        "group": "fe3cbbdea18c7b4e"
+        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
+                "file": "Human Computer Interactions/7. User Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +89,8 @@
   },
   "active": "a41f99f4a8b4a119",
   "lastOpenFiles": [
+    "Human Computer Interactions/7. User Testing.md",
+    "Human Computer Interactions/6. Heuristic Evaluation.md",
     "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
     "Deep Learning and NLP/NLP/6. Zero Shot Learning.md",
     "Deep Learning and NLP/NLP/Untitled.md",
@@ -109,8 +98,6 @@
     "Deep Learning and NLP/NLP/Advanced_processing.md",
     "Computer Vision/Basics/4. Metrics.md",
     "Computer Vision/Basics/3. Visual Inference.md",
-    "Human Computer Interactions/7. The design of everyday things.md",
-    "Human Computer Interactions/6. Heuristic Evaluation.md",
     "Computer Vision/Basics/4. Deep Learning based feature extractors.md"
   ]
 }
