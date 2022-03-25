@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a41f99f4a8b4a119",
+        "id": "597700044e2b8f4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Startups/5. Presentations and Pitch.md",
+            "file": "Computer Vision/Basics/5. Visual Inference  II.md",
             "mode": "source"
           }
         },
-        "group": "be251ecb9a303a56"
+        "group": "af27b3a4e88bd17c"
       },
       {
-        "id": "c696a61ae80b35cc",
+        "id": "d432ece7104b42d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Startups/5. Presentations and Pitch.md",
+            "file": "Computer Vision/Basics/5. Visual Inference  II.md",
             "mode": "preview"
           }
         },
-        "group": "be251ecb9a303a56"
+        "group": "af27b3a4e88bd17c"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ef89992fa5f3e86",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startups/5. Presentations and Pitch.md",
+                "file": "Computer Vision/Basics/5. Visual Inference  II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a41f99f4a8b4a119",
+  "active": "597700044e2b8f4c",
   "lastOpenFiles": [
+    "Computer Vision/Basics/5. Visual Inference  II.md",
+    "Human Computer Interactions/micro Interactions.md",
+    "Human Computer Interactions/Class 1.md",
+    "Computer Vision/Basics/3. Visual Inference.md",
+    "Computer Vision/Computer Vision W4.md",
     "Startups/5. Presentations and Pitch.md",
-    "Human Computer Interactions/Untitled.md",
+    "Startups/Grading.md",
     "Human Computer Interactions/7. User Testing.md",
     "Deep Learning and NLP/NLP/Code Mixing.md",
-    "Human Computer Interactions/Summary.md",
-    "Deep Learning and NLP/NLP/7. Language Resources.md",
-    "Deep Learning and NLP/NLP/Advanced_processing.md",
-    "Human Computer Interactions/6. Heuristic Evaluation.md",
-    "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
-    "Deep Learning and NLP/NLP/6. Zero Shot Learning.md"
+    "Human Computer Interactions/Summary.md"
   ]
 }
