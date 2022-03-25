@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learning and NLP/NLP/7. Language Resources.md",
+            "file": "Startups/5. Presentations and Pitch.md",
             "mode": "source"
           }
         },
-        "group": "dd4c09ecc5c47b3c"
+        "group": "be251ecb9a303a56"
       },
       {
-        "id": "c4f5eaa7c977dfb6",
+        "id": "c696a61ae80b35cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learning and NLP/NLP/7. Language Resources.md",
+            "file": "Startups/5. Presentations and Pitch.md",
             "mode": "preview"
           }
         },
-        "group": "dd4c09ecc5c47b3c"
+        "group": "be251ecb9a303a56"
       }
     ],
     "direction": "vertical"
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ef89992fa5f3e86",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning and NLP/NLP/7. Language Resources.md",
+                "file": "Startups/5. Presentations and Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +101,15 @@
   },
   "active": "a41f99f4a8b4a119",
   "lastOpenFiles": [
+    "Startups/5. Presentations and Pitch.md",
+    "Human Computer Interactions/Untitled.md",
+    "Human Computer Interactions/7. User Testing.md",
+    "Deep Learning and NLP/NLP/Code Mixing.md",
+    "Human Computer Interactions/Summary.md",
     "Deep Learning and NLP/NLP/7. Language Resources.md",
     "Deep Learning and NLP/NLP/Advanced_processing.md",
-    "Human Computer Interactions/7. User Testing.md",
     "Human Computer Interactions/6. Heuristic Evaluation.md",
     "Deep Learning and NLP/NLP/Factors affecting fine tuning.md",
-    "Deep Learning and NLP/NLP/6. Zero Shot Learning.md",
-    "Deep Learning and NLP/NLP/Untitled.md",
-    "Deep Learning and NLP/NLP/5. Transformers and Contextual Embedding.md",
-    "Computer Vision/Basics/4. Metrics.md",
-    "Computer Vision/Basics/3. Visual Inference.md"
+    "Deep Learning and NLP/NLP/6. Zero Shot Learning.md"
   ]
 }
