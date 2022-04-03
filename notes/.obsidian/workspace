@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Vision/Basics/5. Visual Inference  II.md",
+            "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
             "mode": "source"
           }
         },
-        "group": "af27b3a4e88bd17c"
+        "group": "1a9812e3a3129d46"
       },
       {
-        "id": "d432ece7104b42d4",
+        "id": "47af01cf2ba4605d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Vision/Basics/5. Visual Inference  II.md",
+            "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
             "mode": "preview"
           }
         },
-        "group": "af27b3a4e88bd17c"
+        "group": "1a9812e3a3129d46"
       }
     ],
     "direction": "vertical"
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ef89992fa5f3e86",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/Basics/5. Visual Inference  II.md",
+                "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +101,15 @@
   },
   "active": "597700044e2b8f4c",
   "lastOpenFiles": [
-    "Computer Vision/Basics/5. Visual Inference  II.md",
-    "Human Computer Interactions/micro Interactions.md",
-    "Human Computer Interactions/Class 1.md",
-    "Computer Vision/Basics/3. Visual Inference.md",
-    "Computer Vision/Computer Vision W4.md",
-    "Startups/5. Presentations and Pitch.md",
-    "Startups/Grading.md",
-    "Human Computer Interactions/7. User Testing.md",
-    "Deep Learning and NLP/NLP/Code Mixing.md",
-    "Human Computer Interactions/Summary.md"
+    "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
+    "Deep Learning and NLP/NLP/9. LSTM Applications.md",
+    "Deep Learning and NLP/NLP/8. Sequential Models.md",
+    "Deep Learning and NLP/NLP/7. Language Resources.md",
+    "Deep Learning and NLP/NLP/Advanced_processing.md",
+    "Deep Learning and NLP/NLP/11.  Advanced Language Models.md",
+    "Deep Learning and NLP/NLP/3. Advanced Processing.md",
+    "Deep Learning and NLP/NLP/1. Breaking down a problem.md",
+    "Deep Learning and NLP/NLP/6. Zero Shot Learning.md",
+    "Deep Learning and NLP/NLP/5. Transformers and Contextual Embedding.md"
   ]
 }
