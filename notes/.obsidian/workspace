@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "597700044e2b8f4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
-            "mode": "source"
-          }
-        },
-        "group": "1a9812e3a3129d46"
-      },
-      {
         "id": "47af01cf2ba4605d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
+            "file": "Productionizing ML on Cloud/1. Use Case 1  - Text Analysis Service.md",
+            "mode": "source"
+          }
+        },
+        "group": "bcc691be757fe7fa"
+      },
+      {
+        "id": "d5b3cd4cadf815c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Productionizing ML on Cloud/1. Use Case 1  - Text Analysis Service.md",
             "mode": "preview"
           }
         },
-        "group": "1a9812e3a3129d46"
+        "group": "bcc691be757fe7fa"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ef89992fa5f3e86",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
+                "file": "Productionizing ML on Cloud/1. Use Case 1  - Text Analysis Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "597700044e2b8f4c",
+  "active": "47af01cf2ba4605d",
   "lastOpenFiles": [
+    "Productionizing ML on Cloud/1. Use Case 1  - Text Analysis Service.md",
+    "Productionizing ML on Cloud/0. Introduction.md",
     "Deep Learning and NLP/NLP/10. Advanced LSTM architectures.md",
     "Deep Learning and NLP/NLP/9. LSTM Applications.md",
-    "Deep Learning and NLP/NLP/8. Sequential Models.md",
+    "Deep Learning and NLP/NLP/11.  Advanced Language Models.md",
+    "Deep Learning and NLP/NLP/5. Transformers and Contextual Embedding.md",
     "Deep Learning and NLP/NLP/7. Language Resources.md",
     "Deep Learning and NLP/NLP/Advanced_processing.md",
-    "Deep Learning and NLP/NLP/11.  Advanced Language Models.md",
-    "Deep Learning and NLP/NLP/3. Advanced Processing.md",
-    "Deep Learning and NLP/NLP/1. Breaking down a problem.md",
-    "Deep Learning and NLP/NLP/6. Zero Shot Learning.md",
-    "Deep Learning and NLP/NLP/5. Transformers and Contextual Embedding.md"
+    "Deep Learning and NLP/NLP/8. Sequential Models.md",
+    "Deep Learning and NLP/NLP/3. Advanced Processing.md"
   ]
 }
